@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm jamal ahmad</h1>
-<h3 align="center">A passionate Ai/Ml Engineer from Nepal</h3>
+<h3 align="center">A passionate Ai/Ml Enthusiast from Nepal</h3>
 
 <h3 align="left">Connect with me:00zamalahmed11@gmail.com</h3>
 <p align="left">
