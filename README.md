@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm jamal ahmad</h1>
-<h3 align="center">Enthusiastic B.Tech CSE student specializing in AI and ML, passionate about harnessing data analysis and machine learning to create impactful solutions. Ready to turn insights into innovation!</h3>
+<h3 align="center">"Motivated B.Tech Computer Science Engineering student with a strong passion for Artificial Intelligence and Machine Learning. Seeking to leverage my technical skills and innovative mindset to contribute to cutting-edge projects in AI/ML, while continuously expanding my knowledge in this dynamic field."</h3>
 
 
 <h3 align="left">Connect with me:00zamalahmed11@gmail.com</h3>
