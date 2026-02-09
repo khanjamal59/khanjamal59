@@ -2,7 +2,7 @@
 <h2 align="center">"Motivated B.Tech Computer Science Engineering student with a strong passion for Artificial Intelligence and Machine Learning. Seeking to leverage my technical skills and innovative mindset to contribute to cutting-edge projects in AI/ML, while continuously expanding my knowledge in this dynamic field."</h2>
 
 
-<h2 align="center">Connect with me:00zamalahmed11@gmail.com</h2>
+<h2 align="center">Connect with me:jamalfaruki9816@gmail.com</h2>
 <p align="left">
 </p>
 
