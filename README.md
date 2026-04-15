@@ -1,10 +1,71 @@
-<h1 align="center"><b>Hi 👋, I'm jamal ahmad</b></h1>
-<h2 align="center">"Motivated B.Tech Computer Science Engineering student with a strong passion for Artificial Intelligence and Machine Learning. Seeking to leverage my technical skills and innovative mindset to contribute to cutting-edge projects in AI/ML, while continuously expanding my knowledge in this dynamic field."</h2>
+<h1 align="center">
+  Hi 👋, I'm Jamal Ahmad
+</h1>
 
+<h3 align="center">
+  💻 B.Tech CSE Student | 🤖 AI & ML Enthusiast | 🚀 Future Innovator
+</h3>
 
-<h2 align="center">Connect with me:jamalfaruki9816@gmail.com</h2>
-<p align="left">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI+%26+ML+Developer;OpenCV+Projects;Flask+Web+Apps;Building+Smart+Systems" />
 </p>
 
-<h2 align="center">Languages and Tools:</h2>
-<p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a></a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
+
+## 🧠 About Me
+
+<p align="center">
+Passionate about building <b>real-world AI solutions</b> using Machine Learning, OpenCV, and Web Technologies.  
+Focused on creating impactful and innovative systems 🚀
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  📧 <b>Email:</b> jamalfaruki9816@gmail.com  
+</p>
+
+---
+
+## ⚡ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,c,mysql,html,tensorflow,opencv,flask" />
+</p>
+
+---
+
+## 🧰 Tools & Libraries
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khanjamal59&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khanjamal59&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌀 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khanjamal59&theme=tokyo-night" />
+</p>
+
+---
+
+
+
+<p align="center">
+  ⭐ Star my repositories if you like my work!
+</p>
