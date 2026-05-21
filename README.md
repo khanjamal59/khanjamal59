@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2937,100:111827&height=180&section=header&text=Jamal%20Ahmad&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 
-# Jamal Ahmad
+
 
 
 ---
