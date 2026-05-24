@@ -1,104 +1,169 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2937,100:111827&height=180&section=header&text=Jamal%20Ahmad&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:0A192F,100:000000&height=240&section=header&text=Jamal%20Ahmad&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 
 
+<br>
 
----
-
-##  About Me
-
-- B.Tech Computer Science Engineering Student  
-- Interested in Artificial Intelligence and Machine Learning  
-- Building projects using Flask, OpenCV, and Python  
-- Exploring AI automation and intelligent systems  
-- Focused on practical and real-world applications  
-
----
-
-##  Skills
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,mysql,flask,tensorflow,opencv,git,github,vscode,linux&theme=light"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
 
 </div>
 
 ---
 
-##  Libraries & Tools
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/> About Me
+
+<img align="right" width="320" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+
+
+<br>
+
+- 🎓 B.Tech Computer Science Engineering Student  
+- 🤖 Passionate About Artificial Intelligence & Machine Learning  
+- 👁️ Exploring Computer Vision using OpenCV  
+- ⚡ Building Real-Time AI Applications  
+- 🌐 Interested in Smart Automation Systems  
+- 🚀 Future Goal: AI Engineer  
+
+---
+
+#  Tech Stack
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,javascript,mysql,flask,tensorflow,opencv,pytorch,git,github,vscode,linux,fastapi&theme=dark"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 </div>
 
 ---
 
-##  GitHub Stats
+#  Libraries & Frameworks
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=khanjamal59&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=khanjamal59&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanjamal59&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khanjamal59&theme=github_dark"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
 </div>
 
 ---
 
-##  Contribution Graph
+#  Real-Time GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=khanjamal59&theme=github-compact&hide_border=true"/>
+
+
+<img width="49%" src="https://streak-stats.demolab.com?user=khanjamal59&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+
+<img width="56%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khanjamal59&theme=tokyonight"/>
 
 </div>
 
 ---
 
-##  Contribution 
+#  Real-Time Contribution Graph
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=khanjamal59&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true"/>
 
 </div>
 
 ---
 
-##  Current Focus
-
-- Machine Learning Projects  
-- Computer Vision Applications  
-- AI Automation  
-- Flask Web Development  
-
----
+#  Live Contribution Snake
 
 <div align="center">
 
-### Thanks for visiting my profile
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2937,100:111827&height=100&section=footer"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
+
+
+
+#  Live GitHub Metrics
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=khanjamal59&label=Profile%20Views&color=00F7FF&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/khanjamal59?style=for-the-badge&color=00F7FF&labelColor=1A1B27"/>
+
+<img src="https://img.shields.io/github/stars/khanjamal59?style=for-the-badge&color=00F7FF&labelColor=1A1B27"/>
+
+</div>
+
+---
+
+#  Current Focus
+
+<div align="center">
+
+<img width="350" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+
+</div>
+
+<br>
+
+- 🤖 Machine Learning Projects  
+- 👁️ Computer Vision Applications  
+- 🌐 Flask & FastAPI Development  
+- ⚡ Async Python Programming  
+- 🔥 AI Automation Systems  
+
+---
+
+
+
+<div align="center">
+
+<img width="400" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif"/>
+
+<img width="400" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
+
+</div>
+
+---
+
+#  Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/khanjamal59">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:yourmail@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+
+
