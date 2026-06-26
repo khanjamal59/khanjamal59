@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4DB,100:0A192F&height=220&section=header&text=Jamal%20Ahmad&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 
-# AI/ML Engineer | Computer Vision Enthusiast
+# AI/ML EngineermEnthusiast
 
 B.Tech CSE Student • Machine Learning • Computer Vision • Backend Development
 
