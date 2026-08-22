@@ -8,7 +8,7 @@ B.Tech CSE Student · Machine Learning · Computer Vision · Backend Development
 </div>
 
 ### About Me
-- 🎓 B.Tech CSE student, focused on AI & Machine Learning
+- 🎓 CSE student, focused on AI & Machine Learning
 - 👁️ Exploring Computer Vision and Deep Learning
 - ⚡ Building AI-powered apps with Python
 - 🌐 Interested in automation and backend development
@@ -18,11 +18,6 @@ B.Tech CSE Student · Machine Learning · Computer Vision · Backend Development
 <img src="https://skillicons.dev/icons?i=python,cpp,java,mysql,flask,fastapi,tensorflow,pytorch,opencv,git,github,linux,vscode&theme=dark"/>
 </div>
 
-### GitHub Stats
-<div align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=khanjamal59&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img width="48%" src="https://streak-stats.demolab.com?user=khanjamal59&theme=tokyonight&hide_border=true"/>
-</div>
 
 ### Connect
 <div align="center">
